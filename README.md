@@ -11,7 +11,7 @@
 
 使用方式：
 
-![使用方式](source/usagevideo.mp4)
+[使用方式](https://github.com/techsay/Podfile.lock/blob/main/source/usagevideo.mp4)
 
 
 
