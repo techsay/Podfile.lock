@@ -13,7 +13,7 @@
 
 [使用方式](https://github.com/techsay/Podfile.lock/blob/main/source/usagevideo.mp4)
 
-
+![视频演示](source/usagevideo.gif)
 
 根据需要此处生存的信息保持至 md 格式文件，使用Typora 等支持Markdown语法的app打开，
 
